@@ -1,4 +1,4 @@
-Título: Controle de Horas Extras (C)
+Controle de Horas Extras (C)
 
 Descrição:
 Projeto da aula de Programação de Computadores, 2º período. Sistema simples em C para cadastrar funcionários, registrar horas extras, aprovar como supervisor ou gestor e gerar relatórios de horas aprovadas.
